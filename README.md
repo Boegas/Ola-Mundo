@@ -1,2 +1,2 @@
-# Ola-Mundo
-repositorio do curso github do guanabara
+# Olá, Mundo
+primeiro repositorio do curso github do guanabara
